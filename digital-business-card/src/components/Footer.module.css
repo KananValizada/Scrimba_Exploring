@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    padding: 20px 73px;
+    justify-content: space-between;
+    background-color: #161619;
+}
+
+
+.filter{
+ filter: invert(65%) sepia(7%) saturate(436%) hue-rotate(213deg) brightness(87%) contrast(85%);
+width: 25px;
+color:#918E9B
+}

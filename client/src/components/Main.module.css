@@ -1,0 +1,33 @@
+.main {
+    background-color: #282D35;
+    height: 100vh;
+    padding: 57px 27px;
+    background-image: url("../images/react-icon-large.png");
+    /* background-position: ; */
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 127px;
+}
+
+.mainTitle {
+    font-size: 39px;
+    color: #FFFFFF;
+    font-weight: 700;
+    margin-bottom: 47px;
+    letter-spacing: -0.05em;
+
+}
+
+
+.mainList li{
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-bottom: 20px;
+    max-width: 400px;
+}
+
+.mainList li::marker {
+    color: #61DAFB;
+    font-size: 1.4rem;
+    background: #61DAFB;
+}
