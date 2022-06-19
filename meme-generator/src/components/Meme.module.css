@@ -1,0 +1,31 @@
+.meme {
+    margin-top: 36px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.meme input {
+    height: 35px;
+    width: 215px;
+    border: 1px solid #D5D4D8;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.memeBTN {
+    background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+    border-radius: 5px;
+    width: 477px;
+    height: 40px;
+    margin-top: 15px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    border: none;
+    text-align: center;
+    letter-spacing: -0.1em;
+    color: white;
+    margin-bottom: 36px;
+
+    
+}

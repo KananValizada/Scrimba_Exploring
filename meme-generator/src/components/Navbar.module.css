@@ -1,0 +1,34 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 22px;
+    padding-right: 37px;
+    height: 65px;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    color: #FFFFFF;
+}
+
+.nav > h3 {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: 'Inter';
+}
+
+.navLogo {
+    display: flex;
+}
+
+.navLogo img {
+    width: 31px;
+    margin-right: 7px;
+}
+
+.navLogo h1 {
+    font-weight: 700;
+    font-size: 20.7482px;
+    line-height: 24px;
+    letter-spacing: -0.1em;
+    font-family: 'Karla';
+}
